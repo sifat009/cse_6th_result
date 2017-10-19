@@ -11,6 +11,10 @@
 	padding: 20px 0px;
 }
 
+.redText {
+	color: red;
+}
+
 footer {
 	margin-top: 50px;
 }
